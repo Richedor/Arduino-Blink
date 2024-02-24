@@ -18,5 +18,5 @@ Voici la liste des composants utilisés dans ce projet :
 ## Schéma de câblage
 
 Voici le schéma de câblage pour ce projet :
-![alt text](<../../Rédaction PSSI/circuit.png>)
 
+![circuit](https://github.com/Richedor/Arduino-Blink/assets/77790992/9193959e-d6b4-42b9-b70d-a4a761144cb7)
