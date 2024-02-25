@@ -44,7 +44,7 @@ Ce projet est sous licence MIT. Veuillez consulter le fichier `LICENSE.md` pour 
 
 ## Auteur
 
-Ce projet a été créé par Richedor Laleye. Pour toute question ou suggestion, n'hésitez pas à me contacter à adecolalaleye@gmail.com.
+Ce projet a été créé par Richedor (Adecola) Laleye. Pour toute question ou suggestion, n'hésitez pas à me contacter à adecolalaleye@gmail.com.
 
 
 
@@ -96,4 +96,4 @@ This project is licensed under the MIT License. Please refer to the `LICENSE.md`
 
 ## Author
 
-This project was created by Richedor Laleye. For any questions or suggestions, feel free to contact me at adecolalaleye@gmail.com.
+This project was created by Richedor (Adecola) Laleye. For any questions or suggestions, feel free to contact me at adecolalaleye@gmail.com.
